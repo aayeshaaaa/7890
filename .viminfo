@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1696356141,,"wq!"
+|2,0,1696356449,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,43 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/devops
-|4,48,1,11,1696356141,"~/devops"
+'0  2  13  ~/devops
+|4,48,2,13,1696356449,"~/devops"
+'1  1  11  ~/devops
+|4,49,1,11,1696356395,"~/devops"
+'2  1  11  ~/devops
+|4,50,1,11,1696356395,"~/devops"
+'3  1  11  ~/devops
+|4,51,1,11,1696356297,"~/devops"
+'4  1  11  ~/devops
+|4,52,1,11,1696356297,"~/devops"
+'5  1  11  ~/devops
+|4,53,1,11,1696356141,"~/devops"
+'6  1  11  ~/devops
+|4,54,1,11,1696356141,"~/devops"
+'7  1  11  ~/devops
+|4,55,1,11,1696356141,"~/devops"
+'8  1  11  ~/devops
+|4,56,1,11,1696356141,"~/devops"
 
 # Jumplist (newest first):
+-'  2  13  ~/devops
+|4,39,2,13,1696356449,"~/devops"
+-'  1  11  ~/devops
+|4,39,1,11,1696356431,"~/devops"
+-'  1  11  ~/devops
+|4,39,1,11,1696356395,"~/devops"
+-'  1  11  ~/devops
+|4,39,1,11,1696356297,"~/devops"
 -'  1  11  ~/devops
 |4,39,1,11,1696356141,"~/devops"
 
 # History of marks within files (newest to oldest):
 
 > ~/devops
-	*	1696356131	0
-	"	1	11
-	^	1	12
-	.	2	0
-	+	2	0
+	*	1696356447	0
+	"	2	13
+	^	2	14
+	.	2	14
+	+	3	0
+	+	2	14
